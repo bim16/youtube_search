@@ -11,4 +11,6 @@ Checkout this repo, install depdencies, then start the gulp process with the fol
 	> cd youtube_search
 	> npm install
 	> npm start
+	
 ```
+Start in browser: http://localhost:8080/
